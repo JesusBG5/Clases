@@ -1,0 +1,4 @@
+Hola a todos
+Hoy es viernes
+Y tenemos clase de POO
+
